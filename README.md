@@ -1,2 +1,2 @@
-# Pro-C40-V2
-Pro C40 V2 Mario
+# C40_Actividad de la maestra_Código boilerplate
+Actividad de la maestra
